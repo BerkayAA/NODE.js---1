@@ -1,0 +1,13 @@
+
+
+this text comes from the index.js bu eleman dosyaya sileme islemi yaparak dosyayi en bastan silerek tekrardan olusturu $textToInsertFile this is the second file which was not exist 
+hello everyone this is the file which includes some dummy messages you are reading just now.
+
+jonas just an fucking guy who do not teach really really important stuff to the people 
+
+
+check out again how to use github or something like github okey 
+
+DO NOT USE AGAIN SOMETHING LIKE STRUCTURE AGAIN BECAUSE IT IS NOT SUITABLE FOR EVERY PLACE 
+
+

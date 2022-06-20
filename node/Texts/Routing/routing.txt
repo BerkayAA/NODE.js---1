@@ -1,0 +1,9 @@
+> servera gelen istekler uzerinden custumer'ın ekranını guncellemek baska sayfalara yollamak icin 
+routing islemleri yapılır
+
+->> routing islemleri buyuk projelerde karmasıklasabilecegi icin EXSPRESS adındaki kutuphane ile 
+routing islemleri yapılır ama biz suamluk acı verici sekilde yapacagız 
+
+
+==> SERVER ıcınde request den url E gore basitce ekranda farklı seyler gosteriyoruz yani kullanıcıyı farklı 
+sayfalara yolluyoruz da diyebiliriz 

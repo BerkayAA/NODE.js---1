@@ -1,0 +1,3 @@
+
+
+this text comes from the index.js bu eleman dosyaya sileme islemi yaparak dosyayi en bastan silerek tekrardan olusturu

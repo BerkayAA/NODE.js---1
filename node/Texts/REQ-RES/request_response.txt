@@ -1,0 +1,11 @@
+ ==> server icindeki callback fonksiyonda bize hazır olarak verilen req ve res propertyleri 
+        sayfanın hayatını ve sayfalar arasındaki routing islemini yonetmemize yardımcı olur .,
+
+REQUEST 
+    -> reqest de servere gelen istekleri yakalarız ve bu istekleri degerlendirir ona gore degisiklikler yaparız 
+
+RESPONSE 
+    -> response sayesinde de sayfaya serverın donutlerini iletiiriz 
+
+ kısacası request ile ekrandan gelen istekleri yakalarız, response ile de serverden ekrana donutlerinizi 
+ yansıtırız  
