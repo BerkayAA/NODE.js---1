@@ -1,0 +1,9 @@
+
+
+==> npm yani ( node package manaager ) halihazırda node.js icin yazılmış 1 milyonun üzrindeki hazır paketleri 
+    indirip projemize dahil etmemize yardımcı olur.
+
+    -> npm i kullanmak icin tek sefere mahsus olmak sartı ile her projede initialize etmemiz gereklidir.
+    -> initialize isleminden sonra istedigimiz paketi < npm install packageName > kodu ile kolayca projemize 
+        dahil edebiliriz 
+    

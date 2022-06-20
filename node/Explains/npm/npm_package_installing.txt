@@ -1,0 +1,16 @@
+=> npm ile paketleri yuklemek icin terminalden 'npm install' veya da 'npm i paket adı'
+    komutu calıstırılır. 
+
+==> npm install packageName --save-dev => paket isminden sonra yapacagimiz ozellestirmaler 
+    sayesinde paketleri belirli başlıklar altında indirilmesini saglayabiliriz 
+
+
+
+==> nodemon herdefasınde projenin source kodunda bir degisiklik meydana geldiginde serveri
+    kapatıp otomatik olarak tekrar ayaga kaldırır. Bu denli yaygın bir ve kullanıslı bir 
+    amaca hizmet eden bir paketi istersek proje bazında indirmektense global olarak bilgisayarın 
+    kendisine de kaydedebiliriz. 
+
+    <==> GLOBAL OALRAK PAKET INDIRMEK ICIN 
+        - ' sudo npm i nodemon -global ' kodunu calıstırırız bu sayede belirtmis odugumuz paket
+        proje bazında degil de bilgisayar bazında indirilmiş olur

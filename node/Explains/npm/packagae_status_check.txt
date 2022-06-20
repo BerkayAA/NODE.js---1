@@ -1,0 +1,15 @@
+
+==> CHECKING THE UPDATES 
+    outdated olan paketleri npm ile kontrol ederken ' npm outdated ' komutunu calıstırırız ,
+
+==> UPDATING 
+    npm update slugify ile slugify paketini veya herhangi bir paketi en guncel haline update edebiliriz 
+
+==> ~ isareti sadece minor degisikliker kabul demektir 
+==> ^ isareti her cesit degisiklikleri git kabul et bul ve getir demektir 
+
+
+
+==> DELETING THE INSTALLED PACKAGES
+
+    - ' npm uninstall express ' komutu ile indirilmiş olan paketleri silip atabiliriz 

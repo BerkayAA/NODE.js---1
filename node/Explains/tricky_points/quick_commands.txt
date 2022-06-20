@@ -1,0 +1,14 @@
+
+
+==> npm in initialize edilmesi ile birlikte gelen packaage.json dosysı icerindeki script altına 
+    yazacagımıız hazır komutları terminalden direk calıstırarak kolaylık saglayabiliriz 
+
+    "scripts": {
+        "start": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+
+    tanımlamış oldugumuz start komutu artık npm insatall gibi npm'e ait bir komuttur npm start 
+    komutunu calıstırmamızla beraber index.js doayamız nodemon tarafından ayaga kaldırılır ve 
+    index.js dosyamızda meydana gelen her degisiklite otomatik olarak serveer tekrar tekrar kill 
+    edilip ayaga kaldırılır 

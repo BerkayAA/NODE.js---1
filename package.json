@@ -1,0 +1,19 @@
+{
+  "name": "npmlearn",
+  "version": "1.0.0",
+  "description": "npm which means node package manager goes to be defied and explained in this step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerkayAA/NODE.js.git"
+  },
+  "author": "Berkay Ateş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerkayAA/NODE.js/issues"
+  },
+  "homepage": "https://github.com/BerkayAA/NODE.js#readme"
+}
